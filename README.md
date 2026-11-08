@@ -2,6 +2,8 @@
 
 Static homepage for a project about special spots in Basel city.
 
+**Live site:** https://elmuchotomato.github.io/PA_malin_lena/
+
 ## Project structure
 
 - `index.html`: homepage layout
